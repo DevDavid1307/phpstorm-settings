@@ -35,6 +35,7 @@
   <action id="Rerun" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
