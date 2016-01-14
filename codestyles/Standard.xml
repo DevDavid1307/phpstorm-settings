@@ -71,20 +71,6 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <arrangement>
       <tokens>
-        <token id="abstract" name="abstract">
-          <rules>
-            <rule>
-              <match>
-                <ABSTRACT>true</ABSTRACT>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <FINAL>true</FINAL>
-              </match>
-            </rule>
-          </rules>
-        </token>
         <token id="visibility" name="visibility">
           <rules>
             <rule>
@@ -138,6 +124,16 @@
             </rule>
           </rules>
         </token>
+        <token id="magic" name="magic">
+          <rules>
+            <rule>
+              <match>
+                <NAME>__*</NAME>
+              </match>
+              <order>BY_NAME</order>
+            </rule>
+          </rules>
+        </token>
         <token id="modifiers" name="modifiers">
           <rules>
             <rule>
@@ -181,13 +177,17 @@
             </rule>
           </rules>
         </token>
-        <token id="magic" name="magic">
+        <token id="abstract" name="abstract">
           <rules>
             <rule>
               <match>
-                <NAME>__*</NAME>
+                <ABSTRACT>true</ABSTRACT>
               </match>
-              <order>BY_NAME</order>
+            </rule>
+            <rule>
+              <match>
+                <FINAL>true</FINAL>
+              </match>
             </rule>
           </rules>
         </token>
