@@ -3,9 +3,16 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="IntroduceParameter" />
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
