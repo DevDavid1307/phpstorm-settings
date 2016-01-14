@@ -1,0 +1,5 @@
+/**
+ * Class ${NAME}
+ * @example <br/>
+ * 
+ */

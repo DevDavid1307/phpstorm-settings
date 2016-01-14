@@ -1,0 +1,14 @@
+<templateSet group="php">
+  <template name="fe" value="&lt;?php foreach( as ): ?&gt;&#10;&#9;&#10;&lt;?php endforeach ?&gt;" description="foreach-endforeach" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="PHP" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>

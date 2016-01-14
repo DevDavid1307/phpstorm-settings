@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ActionMacroManager">
+    <macro name="debug">
+      <action id="SurroundWith" />
+      <typing text-keycode="85:0">u</typing>
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
+
