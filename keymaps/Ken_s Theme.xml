@@ -1,6 +1,13 @@
 <keymap version="1" name="Ken's Theme" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
@@ -10,10 +17,13 @@
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
@@ -33,6 +43,11 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
@@ -52,5 +67,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="UsageView.Rerun" />
 </keymap>
