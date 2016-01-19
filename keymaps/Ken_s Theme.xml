@@ -33,6 +33,8 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt space" />
@@ -41,6 +43,9 @@
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="Refresh" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace" />
   <action id="Rerun" />
   <action id="SelectNextOccurrence">
