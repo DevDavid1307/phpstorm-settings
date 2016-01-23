@@ -6,10 +6,16 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>MessDetectorValidationInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -64,6 +70,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
   </component>
 </application>
