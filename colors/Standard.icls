@@ -332,7 +332,6 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="5c5c5c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -427,7 +426,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="a7dbd8" />
+        <option name="FOREGROUND" value="716fb6" />
         <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
