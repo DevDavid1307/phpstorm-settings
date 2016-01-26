@@ -6,16 +6,27 @@
           <State>
             <id />
           </State>
+        </expanded-state>
+        <selected-state>
           <State>
             <id>PHP</id>
           </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
           <State>
-            <id>RELAX NG</id>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>MessDetectorValidationInspection</id>
+            <id>Probable bugsJavaScript</id>
           </State>
         </selected-state>
       </profile-state>
