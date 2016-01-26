@@ -6,10 +6,16 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PHP</id>
+            <id>MessDetectorValidationInspection</id>
           </State>
         </selected-state>
       </profile-state>

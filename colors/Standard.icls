@@ -1108,7 +1108,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
