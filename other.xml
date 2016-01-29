@@ -7,6 +7,9 @@
             <id />
           </State>
           <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
             <id>General</id>
           </State>
           <State>
@@ -15,7 +18,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>MessDetectorValidationInspection</id>
+            <id>PhpUnnecessaryFullyQualifiedNameInspection</id>
           </State>
         </selected-state>
       </profile-state>
