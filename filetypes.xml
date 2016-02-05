@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.lock;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="vue" type="HTML" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <removed_mapping ext="vuejs" type="Vue.js file" />
     </extensionMap>
   </component>
