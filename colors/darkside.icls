@@ -1055,6 +1055,12 @@
         <option name="BACKGROUND" value="222324" />
       </value>
     </option>
+    <option name="SASS_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="bc9455" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
