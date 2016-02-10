@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="vue" type="HTML" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
-      <removed_mapping ext="vuejs" type="Vue.js file" />
     </extensionMap>
   </component>
 </application>
