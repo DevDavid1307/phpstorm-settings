@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="vd" value="var_dump($VALUE$); die;" description="var dump - die" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
