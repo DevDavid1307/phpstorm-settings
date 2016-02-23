@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="vue" type="HTML" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="loaderio-0d3f6c33101767fbd9064c793711cc07" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
