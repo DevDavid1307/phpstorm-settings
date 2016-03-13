@@ -7,26 +7,15 @@
             <id />
           </State>
           <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Code StylePHP</id>
-          </State>
-          <State>
             <id>General</id>
           </State>
           <State>
-            <id>Invalid elementsCSS</id>
+            <id>JavaScript</id>
           </State>
           <State>
-            <id>PHP</id>
+            <id>Naming conventionsJavaScript</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>PhpCSValidationInspection</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
