@@ -7,15 +7,14 @@
             <id />
           </State>
           <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Naming conventionsJavaScript</id>
+            <id>PHP</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>MessDetectorValidationInspection</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">

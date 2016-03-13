@@ -45,10 +45,14 @@
   <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="CODESIZE" value="true" />
-    <option name="CONTROVERSIAL" value="true" />
-    <option name="DESIGN" value="true" />
-    <option name="NAMING" value="true" />
+    <option name="customRulesets">
+      <list>
+        <RulesetDescriptor>
+          <option name="name" value="Custom Rule Set" />
+          <option name="path" value="/Users/kkeegan/.phpmd/rules.xml" />
+        </RulesetDescriptor>
+      </list>
+    </option>
   </inspection_tool>
   <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
