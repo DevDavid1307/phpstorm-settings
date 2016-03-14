@@ -7,4 +7,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="bs-table" value="&lt;table class=&quot;table&quot;&gt;&#10;  &lt;thead&gt;&#10;    &lt;tr&gt;&#10;      &lt;th&gt;&lt;/th&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/thead&gt;&#10;  &lt;tbody&gt;&#10;    &lt;tr&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/tbody&gt;&#10;&lt;/table&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
