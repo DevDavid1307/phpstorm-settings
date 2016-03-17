@@ -7,20 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Data flow issuesJavaScript</id>
+            <id>Control flow issuesJavaScript</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
-          <State>
-            <id>PHP</id>
-          </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>MessDetectorValidationInspection</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
