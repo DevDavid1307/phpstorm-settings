@@ -19,6 +19,7 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
