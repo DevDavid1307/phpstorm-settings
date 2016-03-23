@@ -19,7 +19,6 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -44,6 +43,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
