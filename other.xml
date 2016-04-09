@@ -7,15 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
+            <id>PHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>PHP</id>
           </State>
         </selected-state>
       </profile-state>
