@@ -12,7 +12,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PHP</id>
+            <id>MessDetectorValidationInspection</id>
           </State>
         </selected-state>
       </profile-state>
