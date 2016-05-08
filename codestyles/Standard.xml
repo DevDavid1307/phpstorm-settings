@@ -11,6 +11,7 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="140" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
