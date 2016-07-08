@@ -10,10 +10,22 @@
             <id>Bitwise operation issuesJavaScript</id>
           </State>
           <State>
+            <id>Blade files</id>
+          </State>
+          <State>
             <id>CSS</id>
           </State>
           <State>
             <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
           </State>
           <State>
             <id>Code style issuesJavaScript</id>
@@ -40,6 +52,21 @@
             <id>GeneralJavaScript</id>
           </State>
           <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Jade</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
@@ -58,13 +85,22 @@
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
             <id>Probable bugsJavaScript</id>
           </State>
           <State>
             <id>Probable bugsPHP</id>
           </State>
           <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
             <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
           </State>
           <State>
             <id>UndefinedPHP</id>
@@ -72,7 +108,15 @@
           <State>
             <id>UnusedPHP</id>
           </State>
+          <State>
+            <id>XML</id>
+          </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
