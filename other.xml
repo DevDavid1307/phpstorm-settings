@@ -7,9 +7,17 @@
             <id />
           </State>
           <State>
-            <id>General</id>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpUndefinedVariableInspection</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
