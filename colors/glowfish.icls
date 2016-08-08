@@ -17,7 +17,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="db784d" />
     <option name="FILESTATUS_MODIFIED" value="f8bb39" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f8bb39" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f8bb39" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -128,20 +127,11 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
-      <value />
     </option>
     <option name="COFFEESCRIPT.PARAMETER">
       <value>
@@ -595,11 +585,6 @@
         <option name="FOREGROUND" value="6ea240" />
       </value>
     </option>
-    <option name="HAML_TEXT">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="db784d" />
@@ -872,9 +857,6 @@
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>

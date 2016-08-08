@@ -41,7 +41,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -307,7 +306,6 @@
         <option name="FOREGROUND" value="444444" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ab51ba" />
@@ -412,7 +410,6 @@
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="ab51ba" />
@@ -767,9 +764,6 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
-    <option name="MACRO_PARAMETER">
-      <value />
-    </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
         <option name="FOREGROUND" value="c93b48" />
@@ -1025,6 +1019,11 @@
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_Laravel Blade Files">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
