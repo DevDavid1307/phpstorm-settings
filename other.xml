@@ -19,6 +19,9 @@
             <id>PHP</id>
           </State>
           <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
@@ -30,7 +33,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpUndefinedClassInspection</id>
+            <id>PhpMissingDocCommentInspection</id>
           </State>
         </selected-state>
       </profile-state>
