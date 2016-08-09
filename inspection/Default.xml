@@ -264,9 +264,7 @@
     <scope name="Laravel App" level="WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <scope name="Laravel App" level="WARNING" enabled="true">
-      <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
-    </scope>
+    <scope name="Laravel Views" level="WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedConstantInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Laravel App" level="WARNING" enabled="true" />

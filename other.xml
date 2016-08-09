@@ -7,25 +7,19 @@
             <id />
           </State>
           <State>
-            <id>Code StylePHP</id>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>JavaScript function metricsJavaScript</id>
-          </State>
-          <State>
             <id>PHP</id>
           </State>
           <State>
-            <id>PHPDocPHP</id>
-          </State>
-          <State>
             <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsPHP</id>
           </State>
           <State>
             <id>UndefinedPHP</id>
@@ -33,7 +27,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpMissingDocCommentInspection</id>
+            <id>PhpUndefinedClassInspection</id>
           </State>
         </selected-state>
       </profile-state>
