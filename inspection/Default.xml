@@ -252,7 +252,7 @@
     <scope name="Laravel App" level="ERROR" enabled="true" />
   </inspection_tool>
   <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <scope name="Laravel App" level="WARNING" enabled="true" />
+    <scope name="Laravel App" level="WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Laravel App" level="WARNING" enabled="true" />
