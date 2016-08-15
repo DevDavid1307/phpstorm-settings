@@ -294,6 +294,7 @@
     <scope name="Laravel App" level="WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedAliasInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <scope name="Laravel Views" level="WARNING" enabled="false" />
     <scope name="Laravel App" level="WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true">

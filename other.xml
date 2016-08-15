@@ -27,10 +27,13 @@
           <State>
             <id>UndefinedPHP</id>
           </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpUndefinedClassInspection</id>
+            <id>PhpUnusedAliasInspection</id>
           </State>
         </selected-state>
       </profile-state>
