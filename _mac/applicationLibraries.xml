@@ -9,12 +9,14 @@
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.0.0-alpha_js_bootstrap.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.0.0-alpha_js_bootstrap.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.1_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.0.0-alpha_js_bootstrap.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.0.0-alpha_js_bootstrap.js" />
       </CLASSES>
@@ -30,11 +32,15 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.2.4_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.1.0_jquery.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.0.0-alpha1_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_2.1.3_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.2.4_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.1.0_jquery.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.0.0-alpha1_jquery.js" />
       </CLASSES>
       <DOCUMENTATION>
