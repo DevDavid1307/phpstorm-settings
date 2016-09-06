@@ -49,7 +49,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="Rerun" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -75,6 +77,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleFullScreen" />
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Rerun" />
 </keymap>
