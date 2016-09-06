@@ -6,6 +6,7 @@
       <mapping pattern="autocomplete.js" type="JavaScript" />
       <mapping pattern="loaderio-0d3f6c33101767fbd9064c793711cc07" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue.js file" />
     </extensionMap>
   </component>
