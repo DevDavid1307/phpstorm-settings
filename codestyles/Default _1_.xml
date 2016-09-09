@@ -15,6 +15,7 @@
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
