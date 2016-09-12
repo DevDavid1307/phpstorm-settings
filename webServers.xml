@@ -4,20 +4,12 @@
       <webServer id="40093a1f-a74b-4a9b-ad67-22c37b48ff27" name="localhost" url="http://localhost:8080">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="dfa3162c-1132-4ba6-9924-8ef39aca0b48" name="dev.kendugu.society6.com" url="http://dev.kendugu.society6.com">
-        <fileTransfer host="dev.kendugu.society6.com" port="22" privateKey="$USER_HOME$/.ssh/dev.kendugu.society6.pem" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="7a232689-a00e-411d-8261-6813c404f3f4" name="homestead" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAcHgS1DRaYnPkETABj9veUpK18+TZJa2CHuvH485eKbXlBdS3P6uamclqoHO+yfm0qXBUlXFQgSw7TaCNNincJfOMr/FzMKyWIt5JhEiyGd/bvQZPr3Ta18X4y6HIR8pbsD57MXSr3z/IlDvQlFhd0UeZXCDG/+CtaEdakNMvXC6s</data>
+    <data>AAAAcIiDkPKv7AnoDJvMjxZEuWMPwzBFNJMqlOIh+eHGkUU46aYTuw/Y8xBk7OxMkwmVmyEOJ9V6BqjsXHar/amGlYElv8SdTAN+/GZQUCHlyp/tVpEvJbI55HR8fVSYfn/jbrVPQ0x5roa2ubZD0tncWGh1p195+1O9Hc868sca3JaT</data>
   </component>
 </application>
