@@ -18,7 +18,7 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="444444" />
+    <option name="ADDED_LINES_COLOR" value="73bd73" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
@@ -48,7 +48,7 @@
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="444444" />
     <option name="METHOD_SEPARATORS_COLOR" value="303030" />
-    <option name="MODIFIED_LINES_COLOR" value="d9f5dd" />
+    <option name="MODIFIED_LINES_COLOR" value="f77669" />
     <option name="NOTIFICATION_BACKGROUND" value="ffffff" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -442,9 +442,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="d3423e" />
-        <option name="EFFECT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="ff723c" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -487,6 +486,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff723c" />
+        <option name="ERROR_STRIPE_COLOR" value="ff723c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -603,7 +603,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d9b2d5" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
+        <option name="ERROR_STRIPE_COLOR" value="d9b2d5" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
