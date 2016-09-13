@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="DashLauncherAction">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
