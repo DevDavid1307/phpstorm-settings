@@ -15,6 +15,10 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorPageDown" />
+  <action id="EditorPageDownWithSelection" />
+  <action id="EditorPageUp" />
+  <action id="EditorPageUpWithSelection" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -65,6 +69,18 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShiftDownAction">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="ShiftDownMoreAction">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+  </action>
+  <action id="ShiftUpAction">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShiftUpMoreAction">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
