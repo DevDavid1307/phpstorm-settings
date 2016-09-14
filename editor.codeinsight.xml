@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
   <component name="CodeInsightSettings">
     <option name="PARAMETER_INFO_DELAY" value="200" />
     <option name="JAVADOC_INFO_DELAY" value="200" />
@@ -16,5 +13,8 @@
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
     <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_PHP_TAGS" value="true" />
   </component>
 </application>
