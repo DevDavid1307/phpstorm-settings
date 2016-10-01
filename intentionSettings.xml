@@ -2,5 +2,12 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
     <ignoreAction name="PHP/Generate PHPDoc for function" />
+    <ignoreAction name="PHP/Convert HEREDOC/NOWDOC to string literal" />
+    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
+    <ignoreAction name="PHP/Convert array to traditional syntax" />
+    <ignoreAction name="PHP/Convert namespace to braced" />
+    <ignoreAction name="PHP/Inject language using PHPDoc" />
+    <ignoreAction name="PHP/PhpAnnotations" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
   </component>
 </application>
