@@ -25,7 +25,7 @@
       <option name="description" value="" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="Gulp Less" />
       <option name="output" value="" />
       <option name="outputFilters">
@@ -33,9 +33,9 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/gulp" />
-      <option name="scopeName" value="App Less Files" />
+      <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/Code/undownable" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
