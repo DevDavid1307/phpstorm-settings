@@ -9,6 +9,28 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="loaderio-0d3f6c33101767fbd9064c793711cc07" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue.js file" />
+      <mapping pattern="Sconstruct" type="textmate" />
+      <mapping pattern="py3" type="textmate" />
+      <mapping pattern="sconstruct" type="textmate" />
+      <mapping pattern="pyw" type="textmate" />
+      <mapping pattern="rpy" type="textmate" />
+      <mapping pattern="SConscript" type="textmate" />
+      <mapping pattern="SConstruct" type="textmate" />
+      <mapping pattern="cpy" type="textmate" />
+      <mapping pattern="gyp" type="textmate" />
+      <mapping pattern="re" type="textmate" />
+      <mapping pattern="py" type="textmate" />
+      <mapping pattern="gypi" type="textmate" />
+      <mapping ext="sconscript" type="textmate" />
+      <mapping ext="cpy" type="textmate" />
+      <mapping ext="py3" type="textmate" />
+      <mapping ext="sconstruct" type="textmate" />
+      <mapping ext="pyw" type="textmate" />
+      <mapping ext="re" type="textmate" />
+      <mapping ext="gypi" type="textmate" />
+      <mapping ext="gyp" type="textmate" />
+      <mapping ext="py" type="textmate" />
+      <mapping ext="rpy" type="textmate" />
     </extensionMap>
   </component>
 </application>
