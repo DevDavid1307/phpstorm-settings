@@ -38,7 +38,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="" />
@@ -57,7 +57,7 @@
       <option name="workingDir" value="$USER_HOME$/Code/escape" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="less" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="" />
