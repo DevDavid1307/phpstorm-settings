@@ -76,7 +76,7 @@
       <option name="workingDir" value="$USER_HOME$/Code/escape" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="sass" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="" />
