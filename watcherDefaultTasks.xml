@@ -82,7 +82,7 @@
       <option name="arguments" value="sass" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="" />
-      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="sass changes" />
