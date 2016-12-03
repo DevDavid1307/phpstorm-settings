@@ -55,7 +55,9 @@
       <option name="scopeName" value="Javascript Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$USER_HOME$/Code/escape" />
-      <envs />
+      <envs>
+        <env name="PATH" value="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin&#10;&#10;/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin&#10;&#10;" />
+      </envs>
     </TaskOptions>
     <TaskOptions isEnabled="true">
       <option name="arguments" value="less" />
@@ -80,7 +82,7 @@
       <option name="arguments" value="sass" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="sass changes" />
@@ -93,7 +95,9 @@
       <option name="scopeName" value="Sass Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$USER_HOME$/Code/escape" />
-      <envs />
+      <envs>
+        <env name="PATH" value="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin&#10;&#10;/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin&#10;&#10;" />
+      </envs>
     </TaskOptions>
   </component>
 </application>
