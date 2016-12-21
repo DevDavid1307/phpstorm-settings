@@ -1384,4 +1384,9 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="e043b125-0248-4ee7-b8a7-b35e8b904ec8" load_method="CUSTOM_LOADER" configuration_file_path="/home/vagrant/Code/cooler-api/phpunit.xml" custom_loader_path="/home/vagrant/Code/cooler-api/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
