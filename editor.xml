@@ -8,10 +8,6 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingEnabled" value="false" />
