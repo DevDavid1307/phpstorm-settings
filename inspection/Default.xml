@@ -1,6 +1,5 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-  <option name="myLocal" value="true" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="BadExpressionStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -67,7 +66,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="10">
+        <list size="11">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -78,6 +77,7 @@
           <item index="7" class="java.lang.String" itemvalue="bookmark" />
           <item index="8" class="java.lang.String" itemvalue="search" />
           <item index="9" class="java.lang.String" itemvalue="room" />
+          <item index="10" class="java.lang.String" itemvalue="legend" />
         </list>
       </value>
     </option>
@@ -146,7 +146,7 @@
       <list>
         <RulesetDescriptor>
           <option name="name" value="Custom Rule Set" />
-          <option name="path" value="/Users/kkeegan/.phpmd/rules.xml" />
+          <option name="path" value="$USER_HOME$/.phpmd/rules.xml" />
         </RulesetDescriptor>
       </list>
     </option>
@@ -416,4 +416,4 @@
   <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
-</inspections>
+</profile>
