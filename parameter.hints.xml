@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="PHP" />
+      <blacklist language="PHP">
+        <added pattern="\app(make,parameters)" />
+      </blacklist>
     </blacklists>
     <showWhenMultipleParamsWithSameType value="true" />
   </component>
