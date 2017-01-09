@@ -7,8 +7,8 @@
   </template>
   <template name="d" value="dd('here');" description="debug and die" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
+      <option name="PHP Expression" value="true" />
     </context>
   </template>
 </templateSet>
