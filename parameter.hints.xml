@@ -4,6 +4,7 @@
       <blacklist language="PHP">
         <added pattern="\app(make,parameters)" />
         <added pattern="\Illuminate\Database\Eloquent\Model.observe(class,priority)" />
+        <added pattern="\config(key,default)" />
       </blacklist>
     </blacklists>
     <showWhenMultipleParamsWithSameType value="true" />
