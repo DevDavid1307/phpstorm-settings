@@ -1,4 +1,8 @@
 <keymap version="1" name="Ken's Theme" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="CheckinProject" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="meta g" />
@@ -32,6 +36,7 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -54,6 +59,10 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -65,6 +74,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Refresh" />
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
@@ -90,8 +102,7 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="alt home" />
-    <keyboard-shortcut first-keystroke="meta back_slash" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
