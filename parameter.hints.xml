@@ -6,6 +6,7 @@
         <added pattern="\Illuminate\Database\Eloquent\Model.observe(class,priority)" />
         <added pattern="\config(key,default)" />
         <added pattern="\env(key,default)" />
+        <added pattern="\Illuminate\Database\Eloquent\Model.create(attributes)" />
       </blacklist>
     </blacklists>
     <showWhenMultipleParamsWithSameType value="true" />
