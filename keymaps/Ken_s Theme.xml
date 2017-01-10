@@ -24,12 +24,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-  </action>
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
-  </action>
   <action id="EditorPageDown" />
   <action id="EditorPageDownWithSelection" />
   <action id="EditorPageUp" />
@@ -53,13 +47,10 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="shift meta k" />
-    <keyboard-shortcut first-keystroke="shift meta right" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="shift meta left" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt p" />
