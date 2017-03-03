@@ -1,12 +1,12 @@
 <templateSet group="Bootstrap">
-  <template name="bs-dd" value="&lt;div class=&quot;dropdown&quot;&gt;&#10;    &lt;button class=&quot;btn btn-default dropdown-toggle&quot; type=&quot;button&quot; data-toggle=&quot;dropdown&quot;&gt;&#10;        $TEXT$&#10;        &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&#10;    &lt;/button&gt;&#10;    &lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;$ACTION$&lt;/a&gt;&lt;/li&gt;&#10;    &lt;/ul&gt;&#10;&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="bs-dd" value="&lt;div class=&quot;dropdown&quot;&gt;&#10;    &lt;button class=&quot;btn btn-default dropdown-toggle&quot; type=&quot;button&quot; data-toggle=&quot;dropdown&quot;&gt;&#10;        $TEXT$&#10;        &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&#10;    &lt;/button&gt;&#10;    &lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;$ACTION$&lt;/a&gt;&lt;/li&gt;&#10;    &lt;/ul&gt;&#10;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="bs-table" value="&lt;table class=&quot;table&quot;&gt;&#10;  &lt;thead&gt;&#10;    &lt;tr&gt;&#10;      &lt;th&gt;&lt;/th&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/thead&gt;&#10;  &lt;tbody&gt;&#10;    &lt;tr&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/tbody&gt;&#10;&lt;/table&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="bs-table" value="&lt;table class=&quot;table&quot;&gt;&#10;  &lt;thead&gt;&#10;    &lt;tr&gt;&#10;      &lt;th&gt;&lt;/th&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/thead&gt;&#10;  &lt;tbody&gt;&#10;    &lt;tr&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/tbody&gt;&#10;&lt;/table&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
