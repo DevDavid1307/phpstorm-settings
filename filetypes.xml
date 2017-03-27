@@ -4,31 +4,32 @@
     <extensionMap>
       <mapping ext="vue" type="HTML" />
       <mapping pattern="autocomplete.js" type="JavaScript" />
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="loaderio-0d3f6c33101767fbd9064c793711cc07" type="PLAIN_TEXT" />
-      <mapping pattern="sconstruct" type="textmate" />
-      <mapping pattern="py3" type="textmate" />
-      <mapping pattern="cpy" type="textmate" />
-      <mapping pattern="pyw" type="textmate" />
-      <mapping pattern="Sconstruct" type="textmate" />
-      <mapping pattern="rpy" type="textmate" />
-      <mapping pattern="SConscript" type="textmate" />
-      <mapping pattern="gypi" type="textmate" />
-      <mapping pattern="SConstruct" type="textmate" />
-      <mapping pattern="gyp" type="textmate" />
-      <mapping pattern="re" type="textmate" />
-      <mapping pattern="py" type="textmate" />
-      <mapping ext="pyw" type="textmate" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="words" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping ext="cpy" type="textmate" />
-      <mapping ext="py3" type="textmate" />
-      <mapping ext="sconstruct" type="textmate" />
-      <mapping ext="re" type="textmate" />
-      <mapping ext="gypi" type="textmate" />
       <mapping ext="gyp" type="textmate" />
+      <mapping ext="gypi" type="textmate" />
       <mapping ext="py" type="textmate" />
+      <mapping ext="py3" type="textmate" />
+      <mapping ext="pyw" type="textmate" />
+      <mapping ext="re" type="textmate" />
       <mapping ext="rpy" type="textmate" />
+      <mapping ext="sconstruct" type="textmate" />
+      <mapping pattern="SConscript" type="textmate" />
+      <mapping pattern="SConstruct" type="textmate" />
+      <mapping pattern="Sconstruct" type="textmate" />
+      <mapping pattern="cpy" type="textmate" />
+      <mapping pattern="gyp" type="textmate" />
+      <mapping pattern="gypi" type="textmate" />
+      <mapping pattern="py" type="textmate" />
+      <mapping pattern="py3" type="textmate" />
+      <mapping pattern="pyw" type="textmate" />
+      <mapping pattern="re" type="textmate" />
+      <mapping pattern="rpy" type="textmate" />
+      <mapping pattern="sconstruct" type="textmate" />
     </extensionMap>
   </component>
 </application>
