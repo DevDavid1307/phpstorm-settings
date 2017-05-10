@@ -1,11 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="40093a1f-a74b-4a9b-ad67-22c37b48ff27" name="localhost" url="http://localhost:8080">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="7a232689-a00e-411d-8261-6813c404f3f4" name="homestead" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
