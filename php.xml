@@ -12,12 +12,12 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php70/7.0.1/bin/php" id="9d5640d5-ede2-400b-ad3d-7827320ee98e" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php70/7.0.1/bin/php" id="9d5640d5-ede2-400b-ad3d-7827320ee98e" name="Local PHP 7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7">
+      <interpreter name="Local PHP 7">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php70/7.0.1/bin/php-cgi" php_cli="/usr/local/Cellar/php70/7.0.1/bin/php" path_separator=":" version="7.0.1">
           <additional_php_ini />
           <configuration_file>/usr/local/etc/php/7.0/php.ini</configuration_file>
