@@ -1,25 +1,13 @@
 <scheme name="Standard" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-05-10T16:32:55</property>
+    <property name="modified">2017-05-14T20:27:22</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="637761" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
