@@ -1,0 +1,31 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="langDisabledTemplates">
+      <disabled-postfix-templates lang="JavaScript">
+        <value>
+          <set>
+            <option value="!" />
+            <option value=".await" />
+            <option value=".const" />
+            <option value=".else" />
+            <option value=".forin" />
+            <option value=".forof" />
+            <option value=".if" />
+            <option value=".itin" />
+            <option value=".let" />
+            <option value=".log" />
+            <option value=".not" />
+            <option value=".notnull" />
+            <option value=".null" />
+            <option value=".par" />
+            <option value=".return" />
+            <option value=".throw" />
+            <option value=".typeof" />
+            <option value=".undef" />
+            <option value=".var" />
+          </set>
+        </value>
+      </disabled-postfix-templates>
+    </option>
+  </component>
+</application>

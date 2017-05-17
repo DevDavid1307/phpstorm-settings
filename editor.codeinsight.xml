@@ -17,4 +17,7 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_PHP_TAGS" value="true" />
   </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
 </application>
