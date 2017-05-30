@@ -4,11 +4,12 @@
     <extensionMap>
       <mapping ext="vue" type="HTML" />
       <mapping pattern="autocomplete.js" type="JavaScript" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="loaderio-0d3f6c33101767fbd9064c793711cc07" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="words" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="cpy" type="textmate" />
       <mapping ext="gyp" type="textmate" />
       <mapping ext="gypi" type="textmate" />
