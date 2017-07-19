@@ -2,5 +2,8 @@
   <component name="UsageViewSettings">
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.49529326" />
     <option name="GROUP_BY_MODULE" value="false" />
+    <option name="FLATTEN_MODULES" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
   </component>
 </application>
