@@ -2,6 +2,7 @@
   <option name="myName" value="Lean" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="BadExceptionsProcessingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BadExpressionStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CallerJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -27,6 +28,7 @@
   <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DeclareUseStrictTypesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateCaseLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateKeyInSection" enabled="false" level="WARNING" enabled_by_default="false" />
