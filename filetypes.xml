@@ -9,7 +9,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="words" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="cpy" type="textmate" />
       <mapping ext="gyp" type="textmate" />
       <mapping ext="gypi" type="textmate" />
