@@ -4,6 +4,80 @@
   <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="BadExceptionsProcessingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BadExpressionStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="BashAddShebang" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashBuiltInVariable" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashDuplicateFunction" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashEvaluateArithmeticExpression" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashEvaluateExpression" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashFixShebang" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true">
+      <shebang>/bin/bash</shebang>
+      <shebang>/bin/sh</shebang>
+    </scope>
+    <shebang>/bin/bash</shebang>
+    <shebang>/bin/sh</shebang>
+  </inspection_tool>
+  <inspection_tool class="BashFloatArithmetic" enabled="true" level="INFO" enabled_by_default="false">
+    <scope name="Scripts" level="INFO" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashGlobalLocalVarDef" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashGloballyRegisteredVariable" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashInternalCommandFunctionOverride" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashMissingInclude" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashReadOnlyVariable" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Scripts" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashRecursiveInclusion" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashReplaceWithBackquote" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashReplaceWithSubshell" enabled="true" level="INFO" enabled_by_default="false">
+    <scope name="Scripts" level="INFO" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashSimpleArrayUse" enabled="true" level="INFO" enabled_by_default="false">
+    <scope name="Scripts" level="INFO" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashSimpleVarUsage" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashUnknownFileDescriptor" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashUnresolvedVariable" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashUnusedFunction" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashUnusedFunctionParams" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashWrapFunction" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="BashWrapWord" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
   <inspection_tool class="CallerJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -23,8 +97,96 @@
   <inspection_tool class="ConstantConditionalExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConstantIfStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ContinueOrBreakFromFinallyBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CssConvertColorToRgbInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="CssConvertColorToRgbInspection" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssFloatPxLength" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidAtRule" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidCharsetRule" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidElement" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidFunction" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidHtmlTagReference" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidImport" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidMediaFeature" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidPropertyValue" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssInvalidPseudoSelector" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssMissingComma" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssNegativeValue" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssNoGenericFontName" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssOptimizeSimilarProperties" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssOverwrittenProperties" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssRedundantUnit" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssUnitlessNumber" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true">
+      <option name="myCustomPropertiesEnabled" value="false" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </scope>
+    <option name="myCustomPropertiesEnabled" value="false" />
+    <option name="myIgnoreVendorSpecificProperties" value="false" />
+    <option name="myCustomPropertiesList">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="CssUnknownTarget" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssUnresolvedClass" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssUnresolvedCustomProperty" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssUnresolvedCustomPropertySet" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Frontend" level="ERROR" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="CssUnusedSymbol" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+  </inspection_tool>
   <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -34,7 +196,12 @@
   <inspection_tool class="DuplicateCaseLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateKeyInSection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateSectionInFile" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WEAK WARNING" enabled="true" />
+    <scope name="Application" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
   <inspection_tool class="ES6BindWithArrowFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertModuleExportToExport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertToForOf" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -112,6 +279,7 @@
     <option name="IGNORE_NODESET_TO_BOOLEAN_VIA_STRING" value="true" />
   </inspection_tool>
   <inspection_tool class="IncompatibleMaskJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IndexZeroUsage" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InfiniteLoopJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InfiniteRecursionJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -175,7 +343,11 @@
   <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Frontend" level="WARNING" enabled="true" />
+    <scope name="Scripts" level="WARNING" enabled="true" />
+    <scope name="Application" level="WARNING" enabled="true" />
+  </inspection_tool>
   <inspection_tool class="LoopStatementThatDoesntLoopJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
@@ -250,7 +422,17 @@
   <inspection_tool class="ShiftOutOfRangeJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SillyAssignmentJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SingleCharAlternation" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="false">
+    <scope name="Frontend" level="TYPO" enabled="true">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </scope>
+    <scope name="Translations" level="TYPO" enabled="true">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </scope>
     <option name="processCode" value="true" />
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
