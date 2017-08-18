@@ -1,7 +1,7 @@
 <scheme name="Standard" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-05-22T19:48:42</property>
+    <property name="modified">2017-08-18T15:26:10</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -72,6 +72,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.BINARY_DATA">
+      <value>
+        <option name="FOREGROUND" value="32424a" />
+      </value>
+    </option>
     <option name="BASH.CONDITIONAL">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
@@ -81,6 +86,11 @@
       <value>
         <option name="FOREGROUND" value="e4cb8f" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FOREGROUND" value="32424a" />
       </value>
     </option>
     <option name="BASH.INTERNAL_COMMAND">
