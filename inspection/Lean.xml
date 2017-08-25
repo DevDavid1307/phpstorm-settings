@@ -431,13 +431,13 @@
   <inspection_tool class="ShiftOutOfRangeJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SillyAssignmentJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SingleCharAlternation" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="false">
-    <scope name="Frontend" level="TYPO" enabled="true">
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <scope name="Frontend" level="TYPO" enabled="false">
       <option name="processCode" value="true" />
       <option name="processLiterals" value="true" />
       <option name="processComments" value="true" />
     </scope>
-    <scope name="Translations" level="TYPO" enabled="true">
+    <scope name="Translations" level="TYPO" enabled="false">
       <option name="processCode" value="true" />
       <option name="processLiterals" value="true" />
       <option name="processComments" value="true" />
