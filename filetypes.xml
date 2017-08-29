@@ -5,6 +5,7 @@
       <mapping ext="vue" type="HTML" />
       <mapping pattern="autocomplete.js" type="JavaScript" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="loaderio-0d3f6c33101767fbd9064c793711cc07" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="words" type="PLAIN_TEXT" />
