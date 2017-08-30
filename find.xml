@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Notifications" />
-    <option name="defaultScopeName" value="Notifications" />
+    <option name="customScope" value="Backend" />
+    <option name="defaultScopeName" value="Backend" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Notifications" />
+    <option name="SEARCH_SCOPE" value="Backend" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
