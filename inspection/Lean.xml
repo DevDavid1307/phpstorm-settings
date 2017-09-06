@@ -49,7 +49,7 @@
     <scope name="Scripts" level="WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="BashReplaceWithBackquote" enabled="true" level="WEAK WARNING" enabled_by_default="false">
-    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+    <scope name="Scripts" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="BashReplaceWithSubshell" enabled="true" level="INFO" enabled_by_default="false">
     <scope name="Scripts" level="INFO" enabled="true" />
@@ -76,7 +76,7 @@
     <scope name="Scripts" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="BashWrapWord" enabled="true" level="WEAK WARNING" enabled_by_default="false">
-    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+    <scope name="Scripts" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="CallerJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
