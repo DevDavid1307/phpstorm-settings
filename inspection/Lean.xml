@@ -34,7 +34,7 @@
     <scope name="Scripts" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="BashGloballyRegisteredVariable" enabled="true" level="WEAK WARNING" enabled_by_default="false">
-    <scope name="Scripts" level="WEAK WARNING" enabled="true" />
+    <scope name="Scripts" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="BashInternalCommandFunctionOverride" enabled="true" level="WEAK WARNING" enabled_by_default="false">
     <scope name="Scripts" level="WEAK WARNING" enabled="true" />
