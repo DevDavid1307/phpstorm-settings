@@ -226,7 +226,7 @@
   <inspection_tool class="ForeachSourceInspection" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Application" level="WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
+  <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="Debug" enabled_by_default="true">
     <option name="configuration">
       <list>
         <option value="\Codeception\Util\Debug::debug" />
