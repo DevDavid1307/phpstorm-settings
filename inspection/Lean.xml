@@ -245,6 +245,7 @@
         <option value="var_dump" />
         <option value="var_export" />
         <option value="dd" />
+        <option value="dump" />
       </list>
     </option>
     <option name="migratedIntoUserSpace" value="true" />
