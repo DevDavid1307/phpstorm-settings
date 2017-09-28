@@ -1,7 +1,7 @@
 <scheme name="Standard" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-09-12T15:43:52</property>
+    <property name="modified">2017-09-28T11:43:45</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -51,6 +51,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="303030" />
+    <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="303030" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="859687" />
   </colors>
