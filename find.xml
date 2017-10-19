@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,8 +18,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.bl</mask>
       <mask>*.blade</mask>
       <mask>*.blade.</mask>
@@ -27,9 +26,12 @@
       <mask>*.blade.pgp</mask>
       <mask>*.blade.pg</mask>
       <mask>*.blade.php</mask>
-      <mask>*.php</mask>
-      <mask>*.</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
