@@ -13,8 +13,8 @@
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-    <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
