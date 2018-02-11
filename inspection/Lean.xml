@@ -220,6 +220,7 @@
   </inspection_tool>
   <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ExceptionCaughtLocallyJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FallThroughInSwitchStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSConfig" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSFlagCommentPlacement" enabled="false" level="WARNING" enabled_by_default="false" />
