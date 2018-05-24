@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="PHP PSR-0 Namespace Root Detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Platform and Plugin Updates" displayType="NONE" />
-  </component>
-</application>
