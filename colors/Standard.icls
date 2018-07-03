@@ -1,7 +1,7 @@
 <scheme name="Standard" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-06-15T13:27:38</property>
+    <property name="modified">2018-07-03T08:40:58</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -36,14 +36,14 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
     <option name="GUTTER_BACKGROUND" value="212121" />
-    <option name="INDENT_GUIDE" value="" />
+    <option name="INDENT_GUIDE" value="3c3f41" />
     <option name="LINE_NUMBERS_COLOR" value="444444" />
     <option name="METHOD_SEPARATORS_COLOR" value="303030" />
     <option name="MODIFIED_LINES_COLOR" value="a47c7c" />
     <option name="NOTIFICATION_BACKGROUND" value="ffffff" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="303030" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="303030" />
     <option name="SELECTED_TEARLINE_COLOR" value="d9f5dd" />
     <option name="SELECTION_BACKGROUND" value="283737" />
