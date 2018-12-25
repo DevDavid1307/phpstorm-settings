@@ -1,22 +1,23 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Views" />
-    <option name="defaultScopeName" value="Views" />
+    <option name="customScope" value="Default" />
+    <option name="defaultScopeName" value="Default" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Views" />
+    <option name="SEARCH_SCOPE" value="Default" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>*.blade.php</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
